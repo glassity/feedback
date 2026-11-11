@@ -22,7 +22,7 @@ Issues from the app get the **Feedback** issue type and the `feedback` label. Yo
 
 Glassity Genio is a governed AI workforce for enterprise operations. It turns the AI harnesses Glassity built for its own work into a way for teams to run operations work with AI agents, under human control.
 
-Genio is built on Glassity Kanban:
+What Genio does:
 
 - **Works with your tracker.** Boards stay in sync with your GitHub issues and projects. Tickets become work that AI agents and people do together.
 - **Your choice of agents.** Teams work across agent tools such as Claude Code and Codex, on their own machines or infrastructure.
